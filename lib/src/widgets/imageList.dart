@@ -17,7 +17,7 @@ class ImageList extends StatelessWidget{
       shrinkWrap: true,
       controller: _controller,
     );
-  }
+  } //nabıyon bea
 
   Widget buildImage(ImageModel image) {
     return Container(
